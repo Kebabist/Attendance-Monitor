@@ -11,7 +11,7 @@ This system allows educators or administrators to:
 - Monitor temperature and basic classroom traffic using sensors.
 - Interact with a menu-driven interface for different management tasks.
 
-![image_2025-06-01_04-16-20](https://github.com/user-attachments/assets/3847aca8-517a-4c11-b703-3fcfa40abadc)
+![image_2025-06-01_04-16-20](https://github.com/user-attachments/assets/58de904f-aec5-4896-b968-8f81a8fc3565)
 
 The project showcases embedded programming for real-world applications and demonstrates how microcontrollers can manage structured data and interact with multiple hardware modules.
 
